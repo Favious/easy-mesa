@@ -1,0 +1,18 @@
+[
+  {
+    "question": "¿Cuáles son los dos aspectos de calidad que nunca debemos perder de vista?",
+    "correctChoices" : ["Mantenibilidad", "Que sea usado"]
+  },
+  {
+    "question": "Requerimientos y requisitos se utilizan indistintamente en la bibliografía y en la materia de ingeniería de software.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "¿ Qué medimos en el desarrollo de software? (indica los tres elementos que contienen todos los demás)",
+    "correctChoices" : ["Proceso", "Producto", "Recursos"]
+  },
+  {
+    "question": "Indica cuales de las siguiente características pertencen al nivel 4 (gestionado) del CMMI, que no estén en el nivel 2 o 3:",
+    "correctChoices" : ["La organización dispone de un conjunto de métricas significativas de calidad y productividad que usan para la toma de decisions y gestión de riesgos", "El software resultante es de alta calidad."]
+  }
+]

@@ -2,6 +2,8 @@
 
 body {
     background-color: #000;
+    color: white;
+
 }
 .fsociety-mask {
     position: relative;
@@ -49,5 +51,4 @@ body {
     text-align: center;
     font-size: 100px;
     font-family: 'VT323', monospace;
-    color: white;
 }

@@ -7,7 +7,7 @@ export const MainPage = (props) => {
         <div className="evilcorp">
             <div className="fsociety-mask"></div>
             <div className="title">EASY_MESA</div>
-            <SearchBar />
         </div>
+        <SearchBar />
     </div>);
 }
