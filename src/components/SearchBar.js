@@ -23,6 +23,7 @@ export const SearchBar = (props) => {
                             } else if (q.question.toLowerCase().includes(query.toLowerCase())) {
                                 return q;
                             }
+                            return null;
                         }).map((q, index) => (
                             (index <= limit ? <button className="box" key={index} onClick={() => setCurrentQuestion(q)}>
                                 <p>{q.question}</p>
