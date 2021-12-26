@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=VT323&display=swap');
 
 body {
     background-color: #000;
     color: white;
-
+    font-family: 'Roboto Mono', monospace;
 }
 .fsociety-mask {
     position: relative;

@@ -5,9 +5,10 @@ import "./SearchBar.css"
 export const SearchBar = (props) => {
     const [query, setQuery] = useState("");
     const [currentQuestion, setCurrentQuestion] = useState({
-        question: "",
+        question: "...",
         correctChoices: [],
     });
+    let limit = 3;
 
     return (
             <div className="clearfix">
@@ -23,18 +24,18 @@ export const SearchBar = (props) => {
                                 return q;
                             }
                         }).map((q, index) => (
-                            <button className="box" key={index} onClick={() => setCurrentQuestion(q)}>
+                            (index <= limit ? <button className="box" key={index} onClick={() => setCurrentQuestion(q)}>
                                 <p>{q.question}</p>
-                            </button>
+                            </button> : <></>)
                         ))
                     }
                 </div>
                 <div className="boxItems render">
-                    <p>{currentQuestion.question}</p>
+                    <h3>{currentQuestion.question}</h3>
                     {
                         currentQuestion.correctChoices.map((choice) => (
                             <div>
-                                <h3>- {choice}</h3>
+                                <p><i className="fa fa-check-square-o " style={{color: "#369f36"}}></i> {choice}</p>
                             </div>
                         ))
                     }

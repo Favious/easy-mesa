@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .clearfix::after {
@@ -17,7 +18,7 @@
 
 .box {
     text-align: left;
-    font-size: 25px;
+    font-size: 20px;
     border: #ffffff ridge 1px;
     margin: 3px;
     padding-left: 10px;
@@ -53,6 +54,7 @@
     margin-top: 50px;
     width: 46%;
     font-size: 20px;
+    height: auto;
 }
 
 /*Resize the wrap to see the search bar change!*/

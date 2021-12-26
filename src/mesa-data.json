@@ -14,5 +14,9 @@
   {
     "question": "Indica cuales de las siguiente características pertencen al nivel 4 (gestionado) del CMMI, que no estén en el nivel 2 o 3:",
     "correctChoices" : ["La organización dispone de un conjunto de métricas significativas de calidad y productividad que usan para la toma de decisions y gestión de riesgos", "El software resultante es de alta calidad."]
+  },
+  {
+    "question": "Marca todas las sentencias que sean verdaderas con relación a los hitos",
+    "correctChoices" : ["Los hitos permiten \"ver\" el avance del proyecto.", "Los hitos son importantes para realizar el control del proyecto y ajustar calendarios si fuera necesario.", "Los hitos permiten establecer el fin de una actividad o etapa del proyecto.", "Los hitos son un reporte formal que no deja lugar a dudas que la meta ha sido alcanzada.", "Para establecer hitos en un proyecto de software el proyecto debe ser dividido en actividades de un tamaño apropiado.", "Los hitos deben tener intérvalos regulares de culminación."]
   }
 ]
