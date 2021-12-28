@@ -36,7 +36,7 @@ export const SearchBar = (props) => {
                     {
                         currentQuestion.correctChoices.map((choice) => (
                             <div>
-                                <p><i className="fa fa-check-square-o " style={{color: "#369f36"}}></i> {choice}</p>
+                                <p><i className="fa fa-check-square-o" style={{color: "#369f36"}}></i> {choice}</p>
                             </div>
                         ))
                     }
