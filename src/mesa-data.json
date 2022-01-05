@@ -84,19 +84,19 @@
     "correctChoices" : ["Verdadero"]
   },
   {
-    "question": "Si fallamos e",
-    "correctChoices" : [""]
+    "question": "Si fallamos en la planificación, podemos añadir más programadores y adelantar el tiempo perdido.",
+    "correctChoices" : ["Falso"]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "Las desventajas o críticas para el Modelo de Procesos DRA son:",
+    "correctChoices" : ["Proyectos grandes necesitan un gran numero de personas", "Alto compromiso de tiempo", "Desaconsejable cuando existen riesgos tecnologicos altos o alta interoperatividad con programas ya existentes", "No apto para todo tipo de sistema (ejm. Sistemas no moduralizables, bajo reuso de componentes"]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "Empareja los elementos que debe coordinar el administrador del proyecto de software con su definicion:",
+    "correctChoices" : ["Tareas -> Son el resultado de separar el trabajo en funcion de pasos secuenciales para generar productos", "Equipo -> Conjunto de participantes que trabajan en un problema en comun", "Calendarios -> Correspondencia entre un modelo de tareas y una linea de tiempo", "Papeles -> Conjunto de responsabilidades", "Productos de trabajo -> Productos finales e intermedios..."]
   },
   {
-    "question": "",
+    "question": "Las desventajas o críticas para el Modelo de Prototipado Evolutivo son:",
     "correctChoices" : [""]
   },
   {
