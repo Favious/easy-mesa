@@ -16,7 +16,135 @@
     "correctChoices" : ["La organización dispone de un conjunto de métricas significativas de calidad y productividad que usan para la toma de decisions y gestión de riesgos", "El software resultante es de alta calidad."]
   },
   {
+    "question": "Un requerimiento es...",
+    "correctChoices" : ["Un conjunto de tareas que quiere delegar al sistema","Una function que el sistema debe realizar","Una característica que debe incluir el sistema","Una restricción que debe cumplir el sistema"]
+  },
+  {
+    "question": "Un documento de requerimientos debe incluir varios índices, como de contenido, diagramas, funciones y otros.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "El tiempo pert es muy importante cuando existe incertidumbre a cerca de la duración de una tarea.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "El COCOMO tiene tres modelos: el COCOMO básico, COCOMO intermedio y COCOMO detallado.",
+    "correctChoices" : ["Falso"]
+  },
+  {
+    "question": "El modelo de fase de diseño previo sigue la forma genérica que la mayoría de los modelos de estimación de esfuerzo.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Un modelo de proceso es un framework de trabajo que no es lo mismo que un ciclo de vida.",
+    "correctChoices" : ["Falso"]
+  },
+  {
     "question": "Marca todas las sentencias que sean verdaderas con relación a los hitos",
     "correctChoices" : ["Los hitos permiten \"ver\" el avance del proyecto.", "Los hitos son importantes para realizar el control del proyecto y ajustar calendarios si fuera necesario.", "Los hitos permiten establecer el fin de una actividad o etapa del proyecto.", "Los hitos son un reporte formal que no deja lugar a dudas que la meta ha sido alcanzada.", "Para establecer hitos en un proyecto de software el proyecto debe ser dividido en actividades de un tamaño apropiado.", "Los hitos deben tener intérvalos regulares de culminación."]
+  },
+  {
+    "question": "Diseñar es traducir los requisitos del software a un conjunto de representaciones:\nSeleccione una o más de una:",
+    "correctChoices" : ["Gráficas","Tabulares","Basadas en lenguajes","Del procedimiento algorítmico"]
+  },
+  {
+    "question": "Antes las prioridades eran tener un código pequeño, rápido, eficiente, optimizado, utilizando los algoritmos más eficaces y eficientes. Hoy el enfoque es en el código como tal tiene que ser simple.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Refactorizar es cambiar el código internamente sin alterar su funcionalidad externa con el objeto de obtener un código más simple.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Los procesos de verificación y Validación son un proceso continuo durante toda la vida del sistema.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Los objetivos de la evolución del software son:",
+    "correctChoices" : ["Mantener operativo al sistema.","Mantener contentos a los usuarios."]
+  },
+  {
+    "question": "El mantenimiento adaptativo y mantenimiento perfectivo hacen necesario el mantenimiento correctivo y mantenimiento preventivo.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Algunas de las características o cualidades de una buena codificación son:",
+    "correctChoices" : ["Portabilidad","Documentada","Modularidad"]
+  },
+  {
+    "question": "El modelo de máquina abstracta tiene las siguientes características",
+    "correctChoices" : ["Cada subsistema solo comparte datos con los subsistemas superior en inferior","Tienen interfaces bien definidas que no deben cambiar al actualizar los subsistemas."]
+  },
+  {
+    "question": "¿Cuándo debemos usar el Modelo de Prototipo?",
+    "correctChoices" : ["Usar cuando inicialmente no están claros los requerimientos. Definir claramente de entrada las reglas de juego con el cliente. No ceder a presión del cliente"]
+  },
+  {
+    "question": "La introducción de un documento de requerimientos debe ubicar al sistema en el ámbito de la organización para la que está siendo construido.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Si fallamos e",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
+  },
+  {
+    "question": "",
+    "correctChoices" : [""]
   }
 ]
