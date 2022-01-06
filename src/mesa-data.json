@@ -96,8 +96,133 @@
     "correctChoices" : ["Tareas -> Son el resultado de separar el trabajo en funcion de pasos secuenciales para generar productos", "Equipo -> Conjunto de participantes que trabajan en un problema en comun", "Calendarios -> Correspondencia entre un modelo de tareas y una linea de tiempo", "Papeles -> Conjunto de responsabilidades", "Productos de trabajo -> Productos finales e intermedios..."]
   },
   {
-    "question": "Las desventajas o críticas para el Modelo de Prototipado Evolutivo son:",
-    "correctChoices" : [""]
+    "question":"La calendarizacion implica dividir el proyecto en actividades",
+    "correctChoices":[
+       "Verdadero"
+     ]
+  },
+  {
+    "question":"El analisis de opciones se debe realizar antes de hacer el plan del proyecto de software",
+    "correctChoices":[
+       "Verdadero"
+     ]
+  },
+  {
+    "question":"Los riesgos de interfaz y mantenimiento son riesgos del proyecto",
+    "correctChoices":[
+       "Falso"
+     ]
+  },
+  {
+    "question":"Un documento de disenio debe contener",
+    "correctChoices":[
+       "Arquitectura",
+       "Planteamiento de la solucion",
+       "Diferentes vistas del sistema",
+       "Modelos de procesos",
+       "Modelos de almacenamiento",
+       "Algoritmos",
+       "Disenio de la interfaz de usuario",
+        "Disenio de los mensajes de error del sistema",
+        "Disenio de la ayuda al usuario"
+     ]
+  },
+  {
+    "question":"Empareja los elementos que debe coordinar el administrador del proyecto de software con su definicion",
+    "correctChoices":[
+       "Equipo ->Conjunto de participantes que trabajan en un problema comun",
+       "Productos de trabajo -> Productos finales e intermedios a entregar de un proyecto",
+       "Papeles -> Conjunto de responsabilidades",
+       "Calendarios -> Correspondencia entre un modelo de tareas y una linea de tiempo",
+       "Tareas -> Son el resultado de separar el trabajo en funcion de pasos secuenciales para generar productos"
+     ]
+  },
+  {
+    "question":"Aplicammos reingenieria a componentes con alta complejidad",
+    "correctChoices":[
+       "verdadero"
+     ]
+  },
+  {
+    "question":"Cuando debemos usar el Modelo Cascada",
+    "correctChoices":[
+       "Usar cuando todos los requerimientos han sido establecidos claramente de entrada"
+     ]
+  },
+  {
+    "question":"Todos los modelos de costos se pueden aplicar a cualquier proyecto",
+    "correctChoices":[
+       "False"
+     ]
+  },
+  {
+    "question":"Los modelos se usan tanto en la actividad de ... como en la actividad de disenio",
+    "correctChoices":[
+       "analisis"
+     ]
+  },
+  {
+    "question":"Cualidades del plan de proyecto que se definieron en clase",
+    "correctChoices":[
+       "Realista",
+       "Especifico",
+       "Diferentes niveles de detalle",
+       "Modificable"
+     ]
+  },
+  {
+    "question":"La salida de la actividad de disenio es el documento de ... del software",
+    "correctChoices":[
+       "Disenio"
+     ]
+  },
+  {
+    "question":"Para el modelo britanico si o si se debe considerar los hitos de cada actividad",
+    "correctChoices":[
+       "verdadero"
+     ]
+  },
+  {
+    "question":"Para la actividad de codificacion se debe contar con los siguientes documentos",
+    "correctChoices":[
+       "Documento de requerimientos",
+       "Documento de disenio"
+     ]
+  },
+  {
+    "question":"Los procesos principales de ciclo de vida del desarrollo de software son",
+    "correctChoices":[
+       "Adquisicion",
+       "Suministro",
+       "Desarrollo",
+       "Explotacion",
+       "Mantenimiento"
+     ]
+  },
+  {
+    "question":"En refactorizacion se puede cambiar una sentencia condicional if por polimorfismo",
+    "correctChoices":[
+       "verdadero"
+     ]
+  },
+  {
+    "question":"Los costos de mantenimiento estan relacionados con",
+    "correctChoices":[
+       "Multiples modificaciones para mejorarlos y adaptarlos a las necesidades de los usuarios",
+       "Cambios incontrolados que no tienen en cuenta la arquitectura del sistema, noi se realizo ingenieria inversa o reingenieria"
+     ]
+  },
+  {
+    "question":"La formula para calcular el valor esperado es (O+4M+P)/6",
+    "correctChoices":[
+       "verdadero"
+     ]
+  },
+  {
+    "question":"Los valores de los factores de ajuste del esfuerzo varian entre 0,75 a 1,40",
+    "correctChoices":[
+       "verdadero"
+     ]
   },
   {
     "question": "",
