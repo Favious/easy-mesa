@@ -225,32 +225,88 @@
      ]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "¿Cuáles son los dos aspectos de calidad que nunca debemos perder de vista?",
+    "correctChoices" : ["Mantenibilidad","Que sea usado"]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "La Fase de Definición según Pressman comprende:",
+    "correctChoices" : ["Análisis","Planificación"]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "Elementos que debe coordinar el administrador de proyectos de software son:",
+    "correctChoices" : ["Equipos","Papeles","Productos de trabajo","Tareas","Calendarios"]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "Empareja el nombre del nivel CMMI, con su descripción",
+    "correctChoices" : ["Optimizado -> La organización está volcada en la mejora continua de procesos e innovación utilizando métricas para este proceso.", "Repetible -> Las organizaciones disponen de unas prácticas institucionalizadas de gestión de proyectos, métricas básicas y relación con subcontratistas.", "Definido -> Las organizaciones disponen de técnicas de ingeniería más detalladas, un nivel medianamente avanzado de métricas en los procesos y actividades del proceso de desarrollo definidas.", "Inicial -> El éxito de los proyectos se basa en el esfuerzo personal, a menudo se producen fracasos, retrasos y sobre costes.", "Gestionado -> Se disponen de un conjunto de métricas significativas de calidad y productividad, que se usan sistemáticamente para la toma de decisiones y la gestión de riesgos."]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "El análisis de factibilidad puede indicar retrazar el proyecto.",
+    "correctChoices" : ["Verdadero"]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "El apéndice de un documento de requerimientos provee información detallada y precisa relativa a la aplicación que se desarrolla",
+    "correctChoices" : ["Falso"]
   },
   {
-    "question": "",
-    "correctChoices" : [""]
+    "question": "Una de las actividades más importantes de la planificación es la definición de estándares, métodos y metodología de desarrollo.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Los modelos de costos se han establecido en base a análisis de regresión y a partir de datos históricos de sistemas.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Los modelos empíricos de estimación de costos siempre deben usarse en cualquier proyecto.",
+    "correctChoices" : ["Falso"]
+  },
+  {
+    "question": "Si un riesgo tiene un impacto de aumentar en 90% el costo del proyecto debe ser gestionado",
+    "correctChoices" : ["Falso"]
+  },
+  {
+    "question": "Los problemas de recursos y requisitos del cliente con \"riesgos del proyecto\".",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "La estructuración del sistema está relacionada con",
+    "correctChoices" : ["División del sistema en varios subsistemas","Cada subsistema es una unidad de software independiente","Implica la identificación de las comunicaciones entre los subsistemas"]
+  },
+  {
+    "question": "De los atributos de calidad del código existen 2 que son muy importantes y son:",
+    "correctChoices" : ["Confiable", "Mantenible"]
+  },
+  {
+    "question": "¿Cuándo refactorizamos?",
+    "correctChoices" : ["Cuando detectamos malos olores en el código.","Cuando tenemos métodos que son muy largas.","Cuando hay que modificar el código para que esté bajo los estándares de la compañía."]
+  },
+  {
+    "question": "El manual técnico refleja el diseño del proyecto, la codificación y las pruebas realizadas para su correcto funcionamiento.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Empareja los porcentajes de esfuerzo dedicado a cada tipo de mantenimiento.",
+    "correctChoices" : ["Otros -> 5%", "Correctivo -> 17%", "Perfectivo -> 60%", "Adaptativo -> 18%"]
+  },
+  {
+    "question": "Las leyes de Lehman & Belady son las únicas leyes que se tienen en la ingeniería de software.",
+    "correctChoices" : ["Verdadero"]
+  },
+  {
+    "question": "Para evitar errores en el código algunos consejos son :",
+    "correctChoices" : ["Especificación precisa, mejor formal.", "Ocultamiento de información y encapsulación.", "Aplicación de sucesivas revisiones en el proceso de desarrollo de software.", "Cuidadosa planificación del sistema de testeo.", "Nombramiento de variables debe ser significativo"]
+  },
+  {
+    "question": "Los 3 niveles de cohesión más baja son:",
+    "correctChoices" : ["Cohesión temporal, Asociación lógica, Cohesión accidental"]
+  },
+  {
+    "question": "La Fase de Desarrollo según Pressman comprende:",
+    "correctChoices" : ["Pruebas","Diseño","Codificación"]
+  },
+  {
+    "question": "Para evaluar la matriz pay-off se estudiaron 3 opciones : la minimización de........................ , opción conservativa y la opción optimista. En el apéndice o anexo de un documento de requerimientos se debe aclarar todo aquello que de lugar a doble interpretación. También es importante documentar lo que está en la parte principal.",
+    "correctChoices" : ["riesgo"]
   },
   {
     "question": "",
